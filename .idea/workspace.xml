@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbd7a85e-9105-48bb-af8f-5cf45f11fa1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feign/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feign/target/classes/com/java666/FeignApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feign/target/classes/com/java666/controller/FeignHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feign/target/classes/com/java666/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feign/target/classes/com/java666/feign/FeignProviderClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feign/target/classes/com/java666/feign/impl/FeignError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/com/java666/ConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/com/java666/controller/ConsumerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/com/java666/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/target/classes/com/java666/ProviderApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/target/classes/com/java666/ProviderApplication2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/target/classes/com/java666/controller/StudentHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/target/classes/com/java666/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/target/classes/com/java666/repository/StudentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaclient/target/classes/com/java666/repository/impl/StudentRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaserver/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaserver/target/classes/com/java666/EurekaServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix/target/classes/com/java666/HystrixApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix/target/classes/com/java666/controller/HystrixHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix/target/classes/com/java666/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix/target/classes/com/java666/feign/FeignProviderClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resttemplate/target/classes/com/java666/RestTemplateApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resttemplate/target/classes/com/java666/controller/RestHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resttemplate/target/classes/com/java666/entiy/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon/target/classes/META-INF/ribbon.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon/target/classes/com/java666/RibbonApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon/target/classes/com/java666/controler/RibbonHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon/target/classes/com/java666/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/target/classes/com/java666/ZuulApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/target/classes/com/java666/ZuulApplication2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\MyIdeaProject\aispringcloud" />
+        <option value="E:\MyIdeaProject\aispringcloud\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YgXqWAuz5MojxWpvUzMlNp7zPD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/gitrepository" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20689656" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java666.feign" />
+      <recent name="com.java666.entity" />
+      <recent name="com.java666" />
+      <recent name="com.java666.entiy" />
+      <recent name="com.java666.repository.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyIdeaProject\aispringcloud\eurekaclient\src\main\java\com\java666" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HystrixApplication">
+    <configuration name="RibbonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java666.RibbonApplication" />
+      <module name="ribbon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java666.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eurekaserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java666.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java666.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java666.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java666.FeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java666.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java666.HystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eurekaclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java666.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java666.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HystrixApplication" />
+        <item itemvalue="Spring Boot.ProviderApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.FeignApplication" />
+        <item itemvalue="Application.RibbonApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.22019868" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbd7a85e-9105-48bb-af8f-5cf45f11fa1e" name="Default Changelist" comment="" />
+      <created>1583365401553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583365401553</updated>
+      <workItem from="1583365407033" duration="219000" />
+      <workItem from="1583365665358" duration="16164000" />
+      <workItem from="1583397977835" duration="13399000" />
+      <workItem from="1583453251839" duration="7013000" />
+      <workItem from="1583463448341" duration="2471000" />
+    </task>
+    <task id="LOCAL-00001" summary="yes">
+      <created>1583465254383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583465254383</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yes" />
+    <option name="LAST_COMMIT_MESSAGE" value="yes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Notifications" timestamp="1583465806135">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1583465806135" />
+    <state x="233" y="3" key="#Project_Structure" timestamp="1583402747832">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1583402747832" />
+    <state x="356" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583456731764">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="356" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1583456731764" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1583413470064">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583413470064" />
+    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1583465248222">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583465248222" />
+    <state x="398" y="99" key="FileChooserDialogImpl" timestamp="1583466088690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583466088690" />
+    <state x="522" y="224" width="295" height="280" key="Github.ShareDialog" timestamp="1583465392291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="522" y="224" width="295" height="280" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1583465392291" />
+    <state x="397" y="49" key="Github.UntrackedFilesDialog" timestamp="1583464233294">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="49" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1583464233294" />
+    <state width="941" height="400" key="GridCell.Tab.0.bottom" timestamp="1583463415990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="941" height="400" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583463415990" />
+    <state width="941" height="400" key="GridCell.Tab.0.center" timestamp="1583463415990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="941" height="400" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583463415990" />
+    <state width="941" height="400" key="GridCell.Tab.0.left" timestamp="1583463415990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="941" height="400" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583463415990" />
+    <state width="941" height="400" key="GridCell.Tab.0.right" timestamp="1583463415990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="941" height="400" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583463415990" />
+    <state width="941" height="400" key="GridCell.Tab.1.bottom" timestamp="1583463415990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="941" height="400" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583463415990" />
+    <state width="941" height="400" key="GridCell.Tab.1.center" timestamp="1583463415990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="941" height="400" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583463415990" />
+    <state width="941" height="400" key="GridCell.Tab.1.left" timestamp="1583463415990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="941" height="400" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583463415990" />
+    <state width="941" height="400" key="GridCell.Tab.1.right" timestamp="1583463415990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="941" height="400" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583463415990" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1583465907161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583465907161" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1583465782811">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583465782811" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1583463474758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583463474758" />
+    <state x="26" y="65" key="new project wizard" timestamp="1583456522789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="26" y="65" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583456522789" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583460325216">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583460325216" />
+  </component>
+</project>
